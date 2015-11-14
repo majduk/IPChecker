@@ -1,0 +1,9 @@
+#!/bin/sh
+
+VERSION=1.0
+INSTALLDIR=/home/apps/IPChecker
+LOGDIR=$INSTALLDIR/log
+LOGFILE=Transact.log
+LOGDATEFORMAT="+[%Y/%m/%d_%H:%M:%S]"
+WORKDIR=$INSTALLDIR/work
+WROKFILE=$WORKDIR/tmp.x
